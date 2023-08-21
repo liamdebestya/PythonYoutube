@@ -1,7 +1,7 @@
 import time
 from selenium import webdriver
 
-video_link = 'https://www.youtube.com/watch?v=uloK1HOTL1c'
+video_link = 'https://youtu.be/UjDYNWkwZAo'
 views = 100
 video_duration = 7 * 60
 
